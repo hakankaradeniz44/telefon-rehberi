@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/telefon rehberi/bin/Debug/net10.0/telefon rehberi
+/Users/semihkartal/Desktop/denemler/telefon rehberi/bin/Debug/net10.0/telefon rehberi.deps.json
+/Users/semihkartal/Desktop/denemler/telefon rehberi/bin/Debug/net10.0/telefon rehberi.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/telefon rehberi/bin/Debug/net10.0/telefon rehberi.dll
+/Users/semihkartal/Desktop/denemler/telefon rehberi/bin/Debug/net10.0/telefon rehberi.pdb
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.dll
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/refint/telefon rehberi.dll
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.pdb
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/telefon rehberi.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/Debug/net10.0/ref/telefon rehberi.dll
