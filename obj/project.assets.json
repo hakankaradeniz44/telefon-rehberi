@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/semihkartal/.nuget/packages/": {}
+    "/Users/hakan.karadeniz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/semihkartal/Desktop/denemler/telefon rehberi/telefon rehberi.csproj",
+      "projectUniqueName": "/Users/hakan.karadeniz/Desktop/Hakan/telefon rehberi/telefon rehberi.csproj",
       "projectName": "telefon rehberi",
-      "projectPath": "/Users/semihkartal/Desktop/denemler/telefon rehberi/telefon rehberi.csproj",
-      "packagesPath": "/Users/semihkartal/.nuget/packages/",
-      "outputPath": "/Users/semihkartal/Desktop/denemler/telefon rehberi/obj/",
+      "projectPath": "/Users/hakan.karadeniz/Desktop/Hakan/telefon rehberi/telefon rehberi.csproj",
+      "packagesPath": "/Users/hakan.karadeniz/.nuget/packages/",
+      "outputPath": "/Users/hakan.karadeniz/Desktop/Hakan/telefon rehberi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/semihkartal/.nuget/NuGet/NuGet.Config"
+        "/Users/hakan.karadeniz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

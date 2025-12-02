@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("telefon rehberi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad22bb9c0fc9bd084e8a69f4606bc03f2a3e40c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("telefon rehberi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("telefon rehberi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
